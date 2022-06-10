@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"@discordjs/rest": "^0.5.0",
+		"discord-api-types": "^0.33.4",
+		"discord.js": "^13.8.0",
+		"invite-module": "^1.0.5",
+		"mongoose": "^6.3.6"
+	}
+}
